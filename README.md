@@ -1,122 +1,109 @@
+# CNN Image Classification using CIFAR-10
 
- CNN Image Classification using CIFAR-10
-
- Project Overview
-
-This project is my Final Project for the Data Science Course, where I implemented a Convolutional Neural Network (CNN) to perform image classification using the CIFAR-10 dataset.
-The goal was to understand how deep learning models learn visual features and classify images into multiple categories.
-
+A Deep Learning project implementing a Convolutional Neural Network (CNN) to classify images from the CIFAR-10 dataset.  
+The goal is to understand how CNNs learn visual features and classify images into multiple categories.
 
 ---
 
- About the Dataset (CIFAR-10)
+## Project Overview
 
-The CIFAR-10 dataset consists of 60,000 color images (32×32 pixels) divided into 10 classes:
+This project is my final project for the Data Science course.  
+It demonstrates how to design, train, and evaluate a CNN for image classification tasks.
 
-Airplane
-
-Automobile
-
-Bird
-
-Cat
-
-Deer
-
-Dog
-
-Frog
-
-Horse
-
-Ship
-
-Truck
-
-
-Some images are low-resolution and visually challenging, making the classification task difficult even for humans.
-
+- Implemented a CNN model using Python and deep learning libraries  
+- Worked with CIFAR-10 dataset containing 60,000 color images (32×32 pixels) across 10 classes  
+- Learned practical concepts of feature extraction, convolution, pooling, and classification  
 
 ---
 
- Model Used
+## About the Dataset (CIFAR-10)
 
-Convolutional Neural Network (CNN)
+The CIFAR-10 dataset consists of:
 
-Implemented using Python and Deep Learning libraries
+- 60,000 color images, 32×32 pixels  
+- 10 Classes:  
+  - Airplane  
+  - Automobile  
+  - Bird  
+  - Cat  
+  - Deer  
+  - Dog  
+  - Frog  
+  - Horse  
+  - Ship  
+  - Truck  
 
-Includes:
-
-Convolution layers
-
-Pooling layers
-
-Fully connected (Dense) layers
-
-Softmax output layer
-
-
-
-
----
-
- Challenges Faced
-
-The model was trained using CPU instead of GPU, which made training slow and time-consuming
-
-Despite limited computational resources, the model achieved ~70% accuracy, which is considered quite good for CIFAR-10, given the dataset complexity
-
-
+Some images are low-resolution and visually challenging, making classification a difficult task.
 
 ---
 
- Results
+## Model Architecture
 
-Accuracy: ~70%
+**Model Used:** Convolutional Neural Network (CNN)  
 
-The model learned to automatically extract features such as edges, shapes, and object patterns
+**Components:**  
 
-Demonstrates how neural networks are “smart” by learning from data and improving through errors
+- Convolution layers  
+- Pooling layers  
+- Fully connected (Dense) layers  
+- Softmax output layer  
 
-
-
----
-
- Technologies Used
-
-Python
-
-Convolutional Neural Networks (CNN)
-
-Deep Learning
-
-CIFAR-10 Dataset
-
-
+**Implemented using:** Python, TensorFlow/Keras (or PyTorch if used)
 
 ---
 
- Learning Outcomes
+## Challenges Faced
 
-Practical understanding of CNN architecture
+- Training on CPU instead of GPU, causing slow training  
+- Limited computational resources  
 
-Experience with image classification
-
-Understanding the impact of hardware (CPU vs GPU) on deep learning
-
-Improved knowledge of model training and evaluation
-
-
+**Outcome:** Achieved ~70% accuracy despite challenges, demonstrating effective learning on a complex dataset.
 
 ---
 
+## Results
+
+- Accuracy: ~70%  
+- The model automatically extracted features like edges, shapes, and object patterns  
+- Demonstrates how CNNs learn from data and improve through errors  
+
+---
+
+## Technologies Used
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-007D9C?style=flat&logo=matplotlib&logoColor=white)  
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-9B59B6?style=flat)  
+
+---
+
+## Learning Outcomes
+
+- Practical understanding of CNN architecture  
+- Experience with image classification pipelines  
+- Understanding impact of hardware (CPU vs GPU) on deep learning performance  
+- Improved knowledge of model training, evaluation, and feature learning  
+
+---
+
+## Future Improvements
+
+- Train the model using GPU for faster convergence  
+- Implement data augmentation to improve accuracy  
+- Experiment with deeper architectures (ResNet, VGG)  
+- Deploy as a web app for real-time image classification  
+- Visualize feature maps and learned filters  
+
+---
+
+## Author
+
+Hassan Ali  
+Data Science Student  
 
 
+GitHub: https://github.com/Hassan-Ali786  
 
-
-
-📬 Contact
-
-Hassan Ali
-Data Science Student
-📍 Pakistan
