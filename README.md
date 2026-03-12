@@ -102,8 +102,8 @@ Some images are low-resolution and visually challenging, making classification a
 ## Author
 
 Hassan Ali  
-Data Science Student  
+Aspiring Data Scientist & Machine Learning Engineer
 
 
-GitHub: https://github.com/Hassan-Ali786  
+GitHub: https://github.com/hassan-ali786  
 
