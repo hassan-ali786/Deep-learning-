@@ -37,6 +37,19 @@ Some images are low-resolution and visually challenging, making classification a
 
 ---
 
+## Project Structure
+
+```bash
+adult-income-mlp-classiffication/
+├── notebooks/
+│   └── Adult_Income_Classification.ipynb
+├── requirements.txt
+├── README.md
+└── LICENSE
+```
+
+---
+
 ## Model Architecture
 
 **Model Used:** Convolutional Neural Network (CNN)  
