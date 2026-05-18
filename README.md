@@ -40,9 +40,9 @@ Some images are low-resolution and visually challenging, making classification a
 ## Project Structure
 
 ```bash
-adult-income-mlp-classiffication/
+cnn-cifar10-classifier/
 ├── notebooks/
-│   └── Adult_Income_Classification.ipynb
+│   └── CIFAR.ipynb
 ├── requirements.txt
 ├── README.md
 └── LICENSE
