@@ -41,7 +41,7 @@ Some images are low-resolution and visually challenging, making classification a
 
 ```bash
 cnn-cifar10-classifier/
-├── notebooks/
+├── notebook/
 │   └── CIFAR.ipynb
 ├── requirements.txt
 ├── README.md
