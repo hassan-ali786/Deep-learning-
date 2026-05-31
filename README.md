@@ -5,6 +5,17 @@ The goal is to understand how CNNs learn visual features and classify images int
 
 ---
 
+## Video Demo:
+
+
+
+https://github.com/user-attachments/assets/8230a9fc-e573-4721-b5db-25d262614507
+
+
+
+---
+
+
 ## Project Overview
 
 This project is my final project for the Data Science course.  
