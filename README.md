@@ -7,10 +7,9 @@ The goal is to understand how CNNs learn visual features and classify images int
 
 ## Video Demo:
 
-https://github.com/user-attachments/assets/8230a9fc-e573-4721-b5db-25d262614507
+<video src="https://github.com/user-attachments/assets/8230a9fc-e573-4721-b5db-25d262614507" width="100%" controls></video>
 
 ---
-
 
 ## Project Overview
 
